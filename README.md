@@ -191,7 +191,7 @@ Stack elements: 20 10
 ```
 ### Source Code
 
-[Click here to view the source code](./stacks_arr.cpp)
+[Click here to view the source code](stack_arr.cpp)
 ## Program 6: Stack Using Linked List in C++
 
 ### Aim
